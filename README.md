@@ -8,3 +8,4 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c)  | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](./c/BalancedBinaryTree/balanced_binary_tree.c)  | Easy |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
