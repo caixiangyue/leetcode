@@ -9,3 +9,4 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c)  | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](./c/BalancedBinaryTree/balanced_binary_tree.c)  | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
