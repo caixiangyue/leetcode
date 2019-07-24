@@ -4,6 +4,7 @@
 | :------ | :------ | :------ | :----- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./c/AddTwoNumbers/add_two_numbers.c)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./c/ValidParentheses/valid_parentheses.c)  | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c)  | Easy |
