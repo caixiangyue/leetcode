@@ -15,3 +15,6 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](./c/LinkedListCycle/linked_list_cycle.c)  | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/Count Primes/count_primes.c)  | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/Reverse Linked List/reverse_linked_list.c)  | Easy |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/Sum of Square Numbers/sum_of_square_numbers.cc)  | Easy |
