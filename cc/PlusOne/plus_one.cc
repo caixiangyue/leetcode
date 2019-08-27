@@ -3,25 +3,38 @@
  * Date: 2019-08-25
  */
 /* 
-Input: 10
-Output: 4
-Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7.
+Example 1:
+Input: [1,2,3]
+Output: [1,2,4]
+Explanation: The array represents the integer 123.
 
+
+Example 2:
+Input: [4,3,2,1]
+Output: [4,3,2,2]
+Explanation: The array represents the integer 4321.
 */ 
 
-int countPrimes(int n){
-    if(n<=2) return 0;
-    int num = 0;
-    int i,j;
-    for(i = 2;i<n;i++){
-        int tmp=(int)sqrt(i);
-        for(j=2;j<=tmp;j++){
-            if(i%j==0)
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+        int num = digits.size();
+        int flag = 1;
+        for(int i=num-1;i>=0;i--){
+            if(flag && digits[i]==9){
+                digits[i] = 0;
+            }else{
+                digits[i]++;
+                flag = 0;
                 break;
+            }
         }
-        if(j>tmp) num++;
+        if(flag){
+            digits.insert(digits.begin(),1);
+        }
+        return digits;
     }
-    return num;
-}
+};
+
 
 

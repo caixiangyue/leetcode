@@ -8,7 +8,7 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [CPP](./cc/LongestPalindromicSubstring/)  | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](./c/RemoveNthNodeFromEndOfList/remove_nth_from_end.c)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./c/ValidParentheses/valid_parentheses.c)  | Easy |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.c)  | Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
