@@ -20,3 +20,4 @@
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c)  | Easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/SumofSquareNumbers/sum_of_square_numbers.cc)  | Easy |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [CPP](./cc/N-RepeatedElementinSize2NArray/n-repeated_element_in_size_2n_array.cc)  | Easy |
