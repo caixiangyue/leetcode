@@ -9,6 +9,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](./c/RemoveNthNodeFromEndOfList/remove_nth_from_end.c)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./c/ValidParentheses/valid_parentheses.c)  | Easy |
 | 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c)  | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./c/RemoveElement/remove_element.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./c/MaximumSubarray/max_sub_array.c)  | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](./c/ClimbingStairs/climb_stairs.c)  | Easy |
