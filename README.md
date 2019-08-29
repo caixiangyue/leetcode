@@ -11,6 +11,7 @@
 | 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./c/MaximumSubarray/max_sub_array.c)  | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](./c/ClimbingStairs/climb_stairs.c)  | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
