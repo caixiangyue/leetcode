@@ -19,6 +19,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c)  | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](./c/BalancedBinaryTree/balanced_binary_tree.c)  | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C](./c/BestTimetoBuyandSellStock/max_profit.c)  | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](./c/LinkedListCycle/linked_list_cycle.c)  | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
