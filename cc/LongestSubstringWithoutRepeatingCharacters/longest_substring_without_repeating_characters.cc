@@ -52,9 +52,9 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int len = s.length();
-        map<char, int> char_map;
+        unordered_map<char, int> char_map;
         int count = 0;
-        map<char, int>::iterator it;
+        unordered_map<char, int>::iterator it;
         for (int i = 0, j = 0; j < len; ++j) {
             it = char_map.find(s[j]);
             if (it != char_map.end()) {

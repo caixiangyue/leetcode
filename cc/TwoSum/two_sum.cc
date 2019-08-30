@@ -6,8 +6,8 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> n_map;
-        map<int, int>::iterator itr; 
+        unordered_map<int, int> n_map;
+        unordered_map<int, int>::iterator itr; 
         for(int i = 0; i < nums.size(); ++i) {
             int temp = target - nums[i];
             itr = n_map.find(temp);
