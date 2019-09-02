@@ -32,4 +32,5 @@
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [CPP](./cc/FibonacciNumber/fibonacci_number.cc)  | Easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/SumofSquareNumbers/sum_of_square_numbers.cc)  | Easy |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C](./c/SortAnArray/sort_array.c)  | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [CPP](./cc/N-RepeatedElementinSize2NArray/n-repeated_element_in_size_2n_array.cc)  | Easy |
