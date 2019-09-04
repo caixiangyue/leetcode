@@ -8,6 +8,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./c/MedianofTwoSortedArrays/find_median_sorted_arrays.c)  | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [CPP](./cc/LongestPalindromicSubstring/)  | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](./c/ReverseInteger/reverse.c)  | Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [CPP](./cc/ContainerWithMostWater/max_area.cc)  | Medium |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](./c/LongestCommonPrefix/longest_common_prefix.c)  | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](./c/RemoveNthNodeFromEndOfList/remove_nth_from_end.c)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./c/ValidParentheses/valid_parentheses.c)  | Easy |
