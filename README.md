@@ -8,6 +8,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./c/MedianofTwoSortedArrays/find_median_sorted_arrays.c)  | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [CPP](./cc/LongestPalindromicSubstring/)  | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](./c/ReverseInteger/reverse.c)  | Easy |
+| 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [CPP](./cc/AToI/atoi.cc)  | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [CPP](./cc/ContainerWithMostWater/max_area.cc)  | Medium |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](./c/LongestCommonPrefix/longest_common_prefix.c)  | Easy |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [CPP](./cc/LetterCombinationsPhoneNumber/letter_combinations.cc)  | Medium |
