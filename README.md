@@ -17,6 +17,7 @@
 | N12 | [整理房间](https://www.nowcoder.com/practice/c32f4c74446541a1ad2abbe54476681f?tpId=98&tqId=32835&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N12.整理房间/整理房间.cc)  | Easy |
 | N13 | [表达式求值](https://www.nowcoder.com/practice/3e483fe3c0bb447bb17ffb3eeeca78ba?tpId=98&tqId=32836&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N13.表达式求值/表达式求值.cc)  | Easy || N14 |
 | N14 | [塔](https://www.nowcoder.com/practice/54868056c5664586b121d9098d008719?tpId=98&tqId=32837&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N14.塔/塔.cc)  | Easy |
+| N15 | [小易的字典](https://www.nowcoder.com/practice/12b1b8ef17e1441f86f322b250bff4c0?tpId=98&tqId=32838&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N15.小易的字典/小易的字典.cc)  | Easy |
 
 
 
