@@ -11,6 +11,7 @@
 | N6 | [矩形重叠](https://www.nowcoder.com/practice/a22dd98b3d224f2bb89142f8acc2fe57?tpId=98&tqId=32829&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N6.矩形重叠/矩形重叠.cc)  | Easy |
 | N7 | [牛牛的闹钟](https://www.nowcoder.com/practice/9173e83d1774462f81255a26feafd7c6?tpId=98&tqId=32830&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N7.牛牛的闹钟/牛牛的闹钟.cc)  | Easy |
 | N8 | [牛牛的背包问题](https://www.nowcoder.com/practice/bf877f837467488692be703735db84e6?tpId=98&tqId=32831&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N8.牛牛的背包问题/牛牛的背包问题.cc)  | Easy |
+| N9 | [俄罗斯方块](https://www.nowcoder.com/practice/9407e24a70b04fedba4ab3bd3ae29704?tpId=98&tqId=32832&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N9.俄罗斯方块/俄罗斯方块.cc)  | Easy |
 
 
 
