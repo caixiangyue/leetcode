@@ -8,4 +8,6 @@
 | N3 | [安置路灯](https://www.nowcoder.com/practice/3a3577b9d3294fb7845b96a9cd2e099c?tpId=98&tqId=32826&tPage=1&rp=1&ru=/ta/2019test&qru=/ta/2019test/question-ranking) | [CPP](./cc/N3.安置路灯/安置路灯.cc)  | Easy |
 | N4 | [迷路的牛牛](https://www.nowcoder.com/practice/fc72d3493d7e4be883e931d507352a4a?tpId=98&tqId=32827&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N4.迷路的牛牛/迷路的牛牛.cc)  | Easy |
 | N5 | [数对](https://www.nowcoder.com/practice/bac5a2372e204b2ab04cc437db76dc4f?tpId=98&tqId=32828&tPage=1&rp=1&ru=/ta/2019test&qru=/ta/2019test/question-ranking) | [CPP](./cc/N5.数对/数对.cc)  | Easy |
+| N6 | [矩形重叠](https://www.nowcoder.com/practice/a22dd98b3d224f2bb89142f8acc2fe57?tpId=98&tqId=32829&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N6.矩形重叠/矩形重叠.cc)  | Easy |
+
 
