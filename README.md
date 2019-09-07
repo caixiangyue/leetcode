@@ -12,6 +12,7 @@
 | N7 | [牛牛的闹钟](https://www.nowcoder.com/practice/9173e83d1774462f81255a26feafd7c6?tpId=98&tqId=32830&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N7.牛牛的闹钟/牛牛的闹钟.cc)  | Easy |
 | N8 | [牛牛的背包问题](https://www.nowcoder.com/practice/bf877f837467488692be703735db84e6?tpId=98&tqId=32831&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N8.牛牛的背包问题/牛牛的背包问题.cc)  | Easy |
 | N9 | [俄罗斯方块](https://www.nowcoder.com/practice/9407e24a70b04fedba4ab3bd3ae29704?tpId=98&tqId=32832&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N9.俄罗斯方块/俄罗斯方块.cc)  | Easy |
+| N10 | [瞌睡](https://www.nowcoder.com/practice/93f2c11daeaf45959bb47e7894047085?tpId=98&tqId=32833&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N10.瞌睡/瞌睡.cc)  | Easy |
 
 
 
