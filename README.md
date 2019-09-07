@@ -14,6 +14,7 @@
 | N9 | [俄罗斯方块](https://www.nowcoder.com/practice/9407e24a70b04fedba4ab3bd3ae29704?tpId=98&tqId=32832&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N9.俄罗斯方块/俄罗斯方块.cc)  | Easy |
 | N10 | [瞌睡](https://www.nowcoder.com/practice/93f2c11daeaf45959bb47e7894047085?tpId=98&tqId=32833&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N10.瞌睡/瞌睡.cc)  | Easy |
 | N11 | [丰收](https://www.nowcoder.com/practice/83b419c027fa490aa60669b0e7dc06a3?tpId=98&tqId=32834&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N11.丰收/丰收.cc)  | Easy |
+| N12 | [整理房间](https://www.nowcoder.com/practice/c32f4c74446541a1ad2abbe54476681f?tpId=98&tqId=32835&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N12.整理房间/整理房间.cc)  | Easy |
 
 
 
