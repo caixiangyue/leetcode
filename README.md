@@ -25,5 +25,6 @@
 | N20 | [善变的同伴](https://www.nowcoder.com/practice/824af5cb05794606b56657bb3fa91f49?tpId=98&tqId=32843&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N20.善变的同伴/善变的同伴.cc)  | Easy |
 | N21 | [字符串归一化](https://www.nowcoder.com/practice/83b419c027fa490aa60669b0e7dc06a3?tpId=98&tqId=32834&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N21.字符串归一化/字符串归一化.cc)  | Easy |
 | N22 | [字符串排序](https://www.nowcoder.com/practice/0425aa0df74646209d3f56f627298ab2?tpId=98&tqId=32845&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N22.字符串排序/字符串排序.cc)  | Easy |
+| N23 | [回文字符串](https://www.nowcoder.com/practice/5bfb74efcd5449e69a480550b1fef431?tpId=98&tqId=32846&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N23.回文字符串/回文字符串.cc)  | Easy |
 
 
