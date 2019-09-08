@@ -30,4 +30,5 @@
 | N25 | [游戏海报](https://www.nowcoder.com/practice/6a6a0e4d6dfa4d89acd73bdfec79cf28?tpId=98&tqId=32848&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N25.游戏海报/游戏海报.cc)  | Easy |
 | N26 | [合并数组](https://www.nowcoder.com/practice/20c8731629b64109825595c3d349d2fc?tpId=98&tqId=32849&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N26.合并数组/合并数组.cc)  | Easy |
 | N27 | [字符串包含](https://www.nowcoder.com/practice/661e24c11de64e78804fdce653dafb0e?tpId=98&tqId=32850&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N27.字符串包含/字符串包含.cc)  | Easy |
+| N28 | [最少数量货物装箱问题](https://www.nowcoder.com/practice/37aa8a88a72e47f798a14d63bee61d8f?tpId=98&tqId=32851&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N28.最少数量货物装箱问题/最少数量货物装箱问题.cc)  | Easy |
 
