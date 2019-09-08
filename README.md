@@ -27,5 +27,5 @@
 | N22 | [字符串排序](https://www.nowcoder.com/practice/0425aa0df74646209d3f56f627298ab2?tpId=98&tqId=32845&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N22.字符串排序/字符串排序.cc)  | Easy |
 | N23 | [回文字符串](https://www.nowcoder.com/practice/5bfb74efcd5449e69a480550b1fef431?tpId=98&tqId=32846&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N23.回文字符串/回文字符串.cc)  | Easy |
 | N24 | [latex爱好者](https://www.nowcoder.com/practice/5de228846bde4f399c4cd5672a1cf682?tpId=98&tqId=32847&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N24.latex爱好者/latex爱好者.cc)  | Easy |
-
+| N25 | [游戏海报](https://www.nowcoder.com/practice/6a6a0e4d6dfa4d89acd73bdfec79cf28?tpId=98&tqId=32848&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N25.游戏海报/游戏海报.cc)  | Easy |
 
