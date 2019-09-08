@@ -21,4 +21,5 @@
 | N16 | [获得最多的奖金](https://www.nowcoder.com/practice/247f7bd088764aefa7474cff27489095?tpId=98&tqId=32839&tPage=1&rp=1&ru=/ta/2019test&qru=/ta/2019test/question-ranking) | [CPP](./cc/N16.获得最多的奖金/获得最多的奖金.cc)  | Easy |
 | N17 | [将满二叉树转换为求和树](https://www.nowcoder.com/practice/b31734e46ba644de85a9cf95bbd57a5f?tpId=98&tqId=32840&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N17.将满二叉树转换为求和树/将满二叉树转换为求和树.cc)  | Easy |
 | N18 | [搭积木](https://www.nowcoder.com/practice/55371b74b2f243e3820e57ee4c7b5504?tpId=98&tqId=32841&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N18.搭积木/搭积木.cc)  | Easy |
+| N19 | [魔法深渊](https://www.nowcoder.com/practice/55e34723b1d34c42af83b39de2395408?tpId=98&tqId=32842&tPage=1&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N19.魔法深渊/魔法深渊.cc)  | Easy |
 
