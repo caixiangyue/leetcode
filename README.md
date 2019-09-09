@@ -34,4 +34,5 @@
 | N29 | [回文子串](https://www.nowcoder.com/practice/003482c395bd41c68082f6adc545a600?tpId=98&tqId=32852&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N29.回文子串/回文子串.cc)  | Easy |
 | N30 | [字符串压缩](https://www.nowcoder.com/practice/44da6966beb449d383f62b12e8df6317?tpId=98&tqId=32853&tPage=2&rp=1&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N30.字符串压缩/字符串压缩.cc)  | Easy |
 | N31 | [解析加减法运算](https://www.nowcoder.com/practice/e3aa42adf73248c58bdaaaa3be162f83?tpId=98&tqId=32854&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N31.解析加减法运算/解析加减法运算.cc)  | Easy |
+| N32 | [求连续子数组的最大和](https://www.nowcoder.com/practice/8705437354604a7cb9ba7bf959e42de6?tpId=98&tqId=32855&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N32.求连续子数组的最大和/求连续子数组的最大和.cc)  | Easy |
 
