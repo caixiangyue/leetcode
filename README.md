@@ -20,6 +20,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](./c/SearchInsertPosition/search_insert.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./c/MaximumSubarray/max_sub_array.c)  | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](./c/Sqrt(x)/my_sqrt.c)  | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](./c/ClimbingStairs/climb_stairs.c)  | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
