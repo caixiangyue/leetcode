@@ -38,5 +38,5 @@
 | N33 | [字符串长度最大乘积](https://www.nowcoder.com/practice/480caa5ffd164ac8b71caaa6d0f4e6db?tpId=98&tqId=32856&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N33.字符串长度最大乘积/字符串长度最大乘积.cc)  | Easy |
 | N34 | [今年的第几天](https://www.nowcoder.com/practice/8705437354604a7cb9ba7bf959e42de6?tpId=98&tqId=32855&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N34.今年的第几天/今年的第几天.cc)  | Easy |
 | N35 | [数字序列第n位的值](https://www.nowcoder.com/practice/967133d6656440ba951870eaf17861de?tpId=98&tqId=32858&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N35.数字序列第n位的值/数字序列第n位的值.cc)  | Easy |
-
+| N36 | [a_b](https://www.nowcoder.com/practice/1df03f0989a1494fa2acfcbd43496ffd?tpId=98&tqId=32859&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N36.a_b/a_b.cc)  | Easy |
 
