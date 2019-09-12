@@ -40,6 +40,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [CPP](./cc/FindAllNumbersDisappearedinanArray/find_disappeared_numbers.cc)  | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [CPP](./cc/FibonacciNumber/fibonacci_number.cc)  | Easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/SumofSquareNumbers/sum_of_square_numbers.cc)  | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C](./c/SortAnArray/sort_array.c)  | Medium |
