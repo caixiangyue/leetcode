@@ -40,5 +40,6 @@
 | N35 | [数字序列第n位的值](https://www.nowcoder.com/practice/967133d6656440ba951870eaf17861de?tpId=98&tqId=32858&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N35.数字序列第n位的值/数字序列第n位的值.cc)  | Easy |
 | N36 | [a_b](https://www.nowcoder.com/practice/1df03f0989a1494fa2acfcbd43496ffd?tpId=98&tqId=32859&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N36.a_b/a_b.cc)  | Easy |
 | N37 | [最小代价爬楼梯](https://www.nowcoder.com/practice/355885694012495281f415387db22fde?tpId=98&tqId=32860&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N37.最小代价爬楼梯/最小代价爬楼梯.cc)  | Easy |
+| N38 | [鸡鸭分类问题](https://www.nowcoder.com/practice/f87616abbac44842b43f24ddd3cf49e8?tpId=98&tqId=32861&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N38.鸡鸭分类问题/鸡鸭分类问题.cc)  | Easy |
 
 
