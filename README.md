@@ -24,6 +24,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](./c/Sqrt(x)/my_sqrt.c)  | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](./c/ClimbingStairs/climb_stairs.c)  | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C](./c/RemoveDuplicatesfromSortedList/delete_duplicates.c)  | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
