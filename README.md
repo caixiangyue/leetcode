@@ -41,5 +41,6 @@
 | N36 | [a_b](https://www.nowcoder.com/practice/1df03f0989a1494fa2acfcbd43496ffd?tpId=98&tqId=32859&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N36.a_b/a_b.cc)  | Easy |
 | N37 | [最小代价爬楼梯](https://www.nowcoder.com/practice/355885694012495281f415387db22fde?tpId=98&tqId=32860&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N37.最小代价爬楼梯/最小代价爬楼梯.cc)  | Easy |
 | N38 | [鸡鸭分类问题](https://www.nowcoder.com/practice/f87616abbac44842b43f24ddd3cf49e8?tpId=98&tqId=32861&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N38.鸡鸭分类问题/鸡鸭分类问题.cc)  | Easy |
+| N39 | [比特币最佳买卖时机](https://www.nowcoder.com/practice/08f70daa78bf45fea64d72523a3641f3?tpId=98&tqId=32862&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N39.比特币最佳买卖时机/最小代价爬楼梯.cc)  | Easy |
 
 
