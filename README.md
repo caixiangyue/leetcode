@@ -39,6 +39,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [CPP](./cc/MajorityElement/majority_element.cc)  | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c)  | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
