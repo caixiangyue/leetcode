@@ -43,4 +43,5 @@
 | N38 | [鸡鸭分类问题](https://www.nowcoder.com/practice/f87616abbac44842b43f24ddd3cf49e8?tpId=98&tqId=32861&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N38.鸡鸭分类问题/鸡鸭分类问题.cc)  | Easy |
 | N39 | [比特币最佳买卖时机](https://www.nowcoder.com/practice/08f70daa78bf45fea64d72523a3641f3?tpId=98&tqId=32862&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N39.比特币最佳买卖时机/最小代价爬楼梯.cc)  | Easy |
 | N40 | [爱吃喵粮的小招喵](https://www.nowcoder.com/practice/336d00e600f8496287d0d472678da774?tpId=98&tqId=32863&tPage=2&rp=2&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N40.爱吃喵粮的小招喵/爱吃喵粮的小招喵.cc)  | Easy |
+| N41 | [X游戏](https://www.nowcoder.com/practice/41b0f2f813da4c0cb68ef298b60a19a2?tpId=98&tqId=32864&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N41.X游戏/X游戏.cc)  | Easy |
 
