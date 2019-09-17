@@ -42,6 +42,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./c/IsSubsequence/is_subsequence.c)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [CPP](./cc/FindAllNumbersDisappearedinanArray/find_disappeared_numbers.cc)  | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [CPP](./cc/FibonacciNumber/fibonacci_number.cc)  | Easy |
