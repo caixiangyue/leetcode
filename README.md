@@ -47,5 +47,6 @@
 | N42 | [跳格子游戏](https://www.nowcoder.com/practice/2ae1e475df394b9bbb7c6e5bf40be9ec?tpId=98&tqId=32865&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N42.跳格子游戏/跳格子游戏.cc)  | Easy |
 | N43 | [糖果分配](https://www.nowcoder.com/practice/c0e676f4cf9846c785ade34d9472951b?tpId=98&tqId=32866&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N43.糖果分配/糖果分配.cc)  | Easy |
 | N44 | [员工考勤记录](https://www.nowcoder.com/practice/503da02a9f474ad5bb0dcd012dd9ab25?tpId=98&tqId=32867&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N44.员工考勤记录/员工考勤记录.cc)  | Easy |
+| N45 | [解码方法](https://www.nowcoder.com/practice/b83b126603dd4e63bc4287d32d754886?tpId=98&tqId=32868&tPage=3&rp=3&ru=/ta/2019test&qru=/ta/2019test/question-ranking) | [CPP](./cc/N45.解码方法/解码方法.cc)  | Easy |
 
 
