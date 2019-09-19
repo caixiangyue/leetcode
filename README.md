@@ -52,5 +52,5 @@
 | N47 | [解码方法](https://www.nowcoder.com/practice/fae1307a24ae4e9ea852a646a4f812bf?tpId=98&tqId=32870&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N47.推倒吧骨牌/推倒吧骨牌.cc)  | Easy |
 | N48 | [重叠的装饰](https://www.nowcoder.com/practice/a502e49967b44036918d93ff43be1930?tpId=98&tqId=32871&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N48.重叠的装饰/重叠的装饰.cc)  | Easy |
 | N49 | [排队唱歌](https://www.nowcoder.com/practice/6ef4d5e5767b470da56e64ee48e0abea?tpId=98&tqId=32872&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N49.排队唱歌/排队唱歌.cc)  | Easy |
-
+| N50 | [挑选代表](https://www.nowcoder.com/practice/c563cc42459d49d5923b3460ba142cf8?tpId=98&tqId=32874&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N50.挑选代表/挑选代表.cc)  | Easy |
 
