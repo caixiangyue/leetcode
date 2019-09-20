@@ -10,6 +10,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](./c/ReverseInteger/reverse.c)  | Easy |
 | 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [CPP](./cc/AToI/atoi.cc)  | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](./c/PalindromeNumber/is_palindrome.c)  | Easy |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C](./c/RegularExpressionMatching/is_match.c)  | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [CPP](./cc/ContainerWithMostWater/max_area.cc)  | Medium |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](./c/LongestCommonPrefix/longest_common_prefix.c)  | Easy |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [CPP](./cc/LetterCombinationsPhoneNumber/letter_combinations.cc)  | Medium |
