@@ -55,4 +55,6 @@
 | N50 | [挑选代表](https://www.nowcoder.com/practice/c563cc42459d49d5923b3460ba142cf8?tpId=98&tqId=32874&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N50.挑选代表/挑选代表.cc)  | Easy |
 | N51 | [目的地最短步数](https://www.nowcoder.com/practice/24ec35c2a8054a7b831a5a3ea660d729?tpId=98&tqId=32875&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N51.目的地最短步数/目的地最短步数.cc)  | Easy |
 | N52 | [方格走法](https://www.nowcoder.com/practice/56f412b9e17e4504b1bbeca96f94a263?tpId=98&tqId=32876&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N52.方格走法/方格走法.cc)  | Easy |
+| N53 | [输出指定长度子串](https://www.nowcoder.com/practice/f7500a858bde41108f01286f57f554f3?tpId=98&tqId=32878&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N53.输出指定长度子串/输出指定长度子串.cc)  | Easy |
+
 
