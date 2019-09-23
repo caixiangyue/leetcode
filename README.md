@@ -42,7 +42,7 @@
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c)  | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc)  | Easy |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc), [C](./c/PalindromeLinkedList/is_palindrome.c) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./c/IsSubsequence/is_subsequence.c)  | Easy |
