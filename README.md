@@ -58,5 +58,6 @@
 | N53 | [输出指定长度子串](https://www.nowcoder.com/practice/f7500a858bde41108f01286f57f554f3?tpId=98&tqId=32878&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N53.输出指定长度子串/输出指定长度子串.cc)  | Easy |
 | N54 | [链表合并](https://www.nowcoder.com/practice/46bda7f0570a47b6b54a29a0a6ae4c27?tpId=98&tqId=32879&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N54.链表合并/链表合并.cc)  | Easy |
 | N55 | [括号配对问题](https://www.nowcoder.com/practice/57260c08eaa44feababd05b328b897d7?tpId=98&tqId=32880&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N55.括号配对问题/括号配对问题.cc)  | Easy |
+| N56 | [整数的倒数](https://www.nowcoder.com/practice/dd63c30dfef04770b5813e63f5a2615a?tpId=98&tqId=32881&tPage=3&rp=3&ru=%2Fta%2F2019test&qru=%2Fta%2F2019test%2Fquestion-ranking) | [CPP](./cc/N56.整数的倒数/整数的倒数.cc)  | Easy |
 
 
