@@ -3,7 +3,7 @@
 | # | Title | Solution | Difficulty |
 | :------ | :------ | :------ | :----- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [CPP](./cc/TwoSum/two_sum.cc)  | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./c/AddTwoNumbers/add_two_numbers.c)  | Medium |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./c/AddTwoNumbers/add_two_numbers.c), [CPP](./cc/AddTwoNumbers/add_two_numbers.cc) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [CPP](./cc/LongestSubstringWithoutRepeatingCharacters/longest_substring_without_repeating_characters.cc)  | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./c/MedianofTwoSortedArrays/find_median_sorted_arrays.c)  | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [CPP](./cc/LongestPalindromicSubstring/)  | Medium |
