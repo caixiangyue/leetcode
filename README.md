@@ -19,6 +19,7 @@
 | 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c)  | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./c/RemoveDuplicatesfromSortedArray/remove_duplicates.c)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./c/RemoveElement/remove_element.c)  | Easy |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C](./c/StrStr/str_str.c)  | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](./c/SearchInsertPosition/search_insert.c)  | Easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C](./c/CountandSay/count_and_say.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./c/MaximumSubarray/max_sub_array.c)  | Easy |
