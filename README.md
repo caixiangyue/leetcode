@@ -5,7 +5,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [CPP](./cc/TwoSum/two_sum.cc), [PY](./py/1.TwoSum/two_sum.py)  | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./c/AddTwoNumbers/add_two_numbers.c), [CPP](./cc/AddTwoNumbers/add_two_numbers.cc) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [CPP](./cc/LongestSubstringWithoutRepeatingCharacters/longest_substring_without_repeating_characters.cc)  | Medium |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./c/MedianofTwoSortedArrays/find_median_sorted_arrays.c)  | Hard |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./c/MedianofTwoSortedArrays/find_median_sorted_arrays.c), [CPP](./cc/MedianofTwoSortedArrays/find_median_sorted_arrays.cc)  | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [CPP](./cc/LongestPalindromicSubstring/longest_palindromic_substring.cc)  | Medium | [note](/cc/LongestPalindromicSubstring/README.md) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](./c/ReverseInteger/reverse.c)  | Easy |
 | 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [CPP](./cc/AToI/atoi.cc)  | Medium |
