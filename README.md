@@ -16,7 +16,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [CPP](./cc/LetterCombinationsPhoneNumber/letter_combinations.cc)  | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](./c/RemoveNthNodeFromEndOfList/remove_nth_from_end.c)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./c/ValidParentheses/valid_parentheses.c)  | Easy |
-| 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c)  | Easy |
+| 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c), [CPP](./cc/MergeTwoSortedLists/merge_two_sorted_lists.cc)  | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [PY](./py/22.GenerateParentheses/generate_parenthesis.py)  | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./c/RemoveDuplicatesfromSortedArray/remove_duplicates.c)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./c/RemoveElement/remove_element.c)  | Easy |
