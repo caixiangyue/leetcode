@@ -40,6 +40,7 @@
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [CPP](./cc/MinimumDepthOfBinaryTree/min_depth.cc)  | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C](./c/BestTimetoBuyandSellStock/max_profit.c)  | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [CPP](./cc/CopyListwithRandomPointer/copy_list_with_random_pointer.cc)  | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](./c/LinkedListCycle/linked_list_cycle.c), [CPP](./cc/LinkedListCycle/linked_list_cycle.cc)  | Easy |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [CPP](./cc/ReorderList/reorder_list.cc)  | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
