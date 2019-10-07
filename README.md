@@ -42,6 +42,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/single_number.c)  | Easy |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [CPP](./cc/CopyListwithRandomPointer/copy_list_with_random_pointer.cc)  | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](./c/LinkedListCycle/linked_list_cycle.c), [CPP](./cc/LinkedListCycle/linked_list_cycle.cc)  | Easy |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [CPP](./cc/LinkedListCycleII/linked_list_cycle_ii.cc)  | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [CPP](./cc/ReorderList/reorder_list.cc)  | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [CPP](./cc/InsertionSortList/insertion_sort_list.cc)  | Medium |
