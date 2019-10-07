@@ -25,6 +25,7 @@
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C](./c/CountandSay/count_and_say.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./c/MaximumSubarray/max_sub_array.c)  | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [CPP](./cc/LengthofLastWord/length_of_last_word.cc)  | Easy |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [CPP](./cc/RotateList/rotate_list.cc)  | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [CPP](./cc/PlusOne/plus_one.cc)  | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](./c/AddBinary/add_binary.c)  | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](./c/Sqrt(x)/my_sqrt.c)  | Easy |
