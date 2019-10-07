@@ -46,7 +46,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [CPP](./cc/MajorityElement/majority_element.cc)  | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C](./c/NumberOf1Bits/hamming_weight.c) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c)  | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c), [CPP](./cc/ReverseLinkedList/reverse_linked_list.cc)  | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc), [C](./c/PalindromeLinkedList/is_palindrome.c) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
