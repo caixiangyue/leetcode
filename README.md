@@ -43,6 +43,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](./c/LinkedListCycle/linked_list_cycle.c)  | Easy |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [CPP](./cc/ReorderList/reorder_list.cc)  | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [CPP](./cc/IntersectionofTwoLinkedLists/intersection_of_two_linked_lists.cc)  | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [CPP](./cc/MajorityElement/majority_element.cc)  | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C](./c/NumberOf1Bits/hamming_weight.c) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
