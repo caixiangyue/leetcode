@@ -33,7 +33,6 @@ quickSort(int *nums, int l, int r) {
  */
 int* sortArray(int* nums, int numsSize, int* returnSize){
     *returnSize = numsSize;
-    int *res = malloc(sizeof(int) * (*returnSize));
     if (numsSize > 0)
         quickSort(nums, 0, numsSize-1);
     return nums;
