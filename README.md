@@ -56,6 +56,7 @@
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc), [C](./c/PalindromeLinkedList/is_palindrome.c) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
+| 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [CPP](./cc/ReverseVowelsofaString/reverse_vowels_of_a_string.cc)  | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./c/IsSubsequence/is_subsequence.c)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [CPP](./cc/PartitionEqualSubsetSum/can_partition.cc)  | Medium |
