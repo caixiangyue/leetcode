@@ -29,3 +29,20 @@ public:
     }
 };
 
+class Solution {
+public:
+    bool judgeSquareSum(int c) {
+        int i = 0, j = (int)sqrt(c);
+        while(i<=j){
+            int diff = c - i*i;
+            if(diff>j*j){
+                i++;
+            }else if(diff<j*j){
+                j--;
+            }else
+                return true;
+        }
+        return false;
+    }
+};
+
