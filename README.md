@@ -61,6 +61,7 @@
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [CPP](./cc/PartitionEqualSubsetSum/can_partition.cc)  | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [CPP](./cc/FindAllNumbersDisappearedinanArray/find_disappeared_numbers.cc)  | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [CPP](./cc/FibonacciNumber/fibonacci_number.cc)  | Easy |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [CPP](./cc/LongestWordinDictionarythroughDeleting/longest_word_in_dictionary_through_deleting.cc)  | Medium |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/SumofSquareNumbers/sum_of_square_numbers.cc)  | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C](./c/SortAnArray/sort_array.c)  | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [CPP](./cc/N-RepeatedElementinSize2NArray/n-repeated_element_in_size_2n_array.cc)  | Easy |
