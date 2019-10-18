@@ -21,6 +21,7 @@
 | O18 | [删除链表中重复的节点](https://www.acwing.com/problem/content/27/) | [CPP](./O18.删除链表中重复的节点/删除链表中重复的节点.cc)  | Easy |
 | O19 | [正则表达式匹配](https://www.acwing.com/problem/content/28/) | [CPP](./O19.正则表达式匹配/正则表达式匹配.cc)  | Easy |
 | O20 | [表示数值的字符串](https://www.acwing.com/problem/content/29/) | [CPP](./O20.表示数值的字符串/表示数值的字符串.cc)  | Easy |
+| O21 | [调整数组顺序使奇数位于偶数前面](https://www.acwing.com/problem/content/30/) | [CPP](./O21.调整数组顺序使奇数位于偶数前面/调整数组顺序使奇数位于偶数前面.cc)  | Easy |
 | O29 | [Print Matrix](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [CPP](./O29.PrintMatrix/print_matrix.cc)  | Easy |
 
 
