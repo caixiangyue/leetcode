@@ -18,6 +18,7 @@
 | O15 | [二进制中1的个数](https://www.acwing.com/problem/content/25/) | [CPP](./O15.二进制中1的个数/二进制中1的个数.cc)  | Easy |
 | O16 | [数值的整数次方](https://www.acwing.com/problem/content/26/ | [CPP](./O16.数值的整数次方/数值的整数次方.cc)  | Easy |
 | O17 | [在O(1)时间删除链表结点](https://www.acwing.com/problem/content/85/) | [CPP](./O17.在O(1)时间删除链表结点/在O(1)时间删除链表结点.cc)  | Easy |
+| O18 | [删除链表中重复的节点](https://www.acwing.com/problem/content/27/) | [CPP](./O18.删除链表中重复的节点/删除链表中重复的节点.cc)  | Easy |
 | O29 | [Print Matrix](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [CPP](./O29.PrintMatrix/print_matrix.cc)  | Easy |
 
 
