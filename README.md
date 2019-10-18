@@ -14,6 +14,7 @@
 | O11 | [旋转数组的最小数字](https://www.acwing.com/problem/content/20/) | [CPP](./O11.旋转数组的最小数字/旋转数组的最小数字.cc)  | Easy |
 | O12 | [矩阵中的路径](https://www.acwing.com/problem/content/21/) | [CPP](./O12.矩阵中的路径/矩阵中的路径.cc)  | Easy |
 | O13 | [机器人的运动范围](https://www.acwing.com/problem/content/22/) | [CPP](./O13.机器人的运动范围/机器人的运动范围.cc)  | Easy |
+| O14 | [剪绳子](https://www.acwing.com/problem/content/24/) | [CPP](./O14.剪绳子/剪绳子.cc)  | Easy |
 | O29 | [Print Matrix](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [CPP](./O29.PrintMatrix/print_matrix.cc)  | Easy |
 
 
