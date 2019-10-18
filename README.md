@@ -24,6 +24,7 @@
 | O21 | [调整数组顺序使奇数位于偶数前面](https://www.acwing.com/problem/content/30/) | [CPP](./O21.调整数组顺序使奇数位于偶数前面/调整数组顺序使奇数位于偶数前面.cc)  | Easy |
 | O22 | [链表中倒数第k个节点](https://www.acwing.com/problem/content/32/) | [CPP](./O22.链表中倒数第k个节点/链表中倒数第k个节点.cc)  | Easy |
 | O23 | [链表中环的入口结点](https://www.acwing.com/problem/content/86/) | [CPP](./O23.链表中环的入口结点/链表中环的入口结点.cc)  | Easy |
+| O24 | [反转链表](https://www.acwing.com/problem/content/33/) | [CPP](./O24.反转链表/反转链表.cc)  | Easy |
 | O29 | [Print Matrix](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [CPP](./O29.PrintMatrix/print_matrix.cc)  | Easy |
 
 
