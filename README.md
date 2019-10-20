@@ -68,3 +68,4 @@
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./cc/SumofSquareNumbers/sum_of_square_numbers.cc)  | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C](./c/SortAnArray/sort_array.c)  | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [CPP](./cc/N-RepeatedElementinSize2NArray/n-repeated_element_in_size_2n_array.cc)  | Easy |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [CPP](./cc/CheckIfItIsAStraightLine/check_straight_line.cc)  | Easy |
