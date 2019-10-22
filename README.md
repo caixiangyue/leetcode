@@ -36,7 +36,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](./c/BinaryTreeInorderTraversal/binary_tree_inorder_traversal.c)  | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](./c/SameTree/same_tree.c)  | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./c/SymmetricTree/symmetric_tree.c)  | Easy |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c)  | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](./c/MaximumDepthOfBinaryTree/max_depth.c), [CPP](./cc/MaximumDepthOfBinaryTree/max_depth.cc)  | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](./c/BalancedBinaryTree/balanced_binary_tree.c)  | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [CPP](./cc/MinimumDepthOfBinaryTree/min_depth.cc)  | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [CPP](./cc/PathSum/has_path_sum.cc)  | Easy |
