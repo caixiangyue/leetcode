@@ -47,6 +47,7 @@
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [CPP](./cc/LinkedListCycleII/linked_list_cycle_ii.cc)  | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [CPP](./cc/ReorderList/reorder_list.cc)  | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](./c/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.c)  | Medium |
+| 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [CPP](./cc/LRUCache/lru_cache.cc)  | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [CPP](./cc/InsertionSortList/insertion_sort_list.cc)  | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [CPP](./cc/IntersectionofTwoLinkedLists/intersection_of_two_linked_lists.cc)  | Easy |
 | 167 | [Two Sum II](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [CPP](./cc/TwoSumII/two_sum_ii.cc)  | Easy |
