@@ -20,6 +20,7 @@
 | 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./c/MergeTwoSortedLists/merge_two_lists.c), [CPP](./cc/MergeTwoSortedLists/merge_two_sorted_lists.cc)  | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [PY](./py/22.GenerateParentheses/generate_parenthesis.py)  | Medium |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [CPP](./cc/SwapNodesinPairs/swap_nodes_in_pairs.cc)  | Medium |
+| 25 | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [CPP](./cc/ReverseNodesink-Group/reverse_nodes_in_k-group.cc)  | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./c/RemoveDuplicatesfromSortedArray/remove_duplicates.c)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./c/RemoveElement/remove_element.c)  | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C](./c/StrStr/str_str.c)  | Easy |
