@@ -59,6 +59,7 @@
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c), [CPP](./cc/ReverseLinkedList/reverse_linked_list.cc)  | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
+| 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [CPP](./cc/KthSmallestElementinaBST/kth_smallest_element_in_a_bst.cc)  | Medium |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc), [C](./c/PalindromeLinkedList/is_palindrome.c) | Easy |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [CPP](./cc/SlidingWindowMaximum/sliding_window_maximum.cc)  | Hard |
 | 242 | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [CPP](./cc/ValidAnagram/valid_anagram.cc)  | Easy |
