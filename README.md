@@ -60,6 +60,7 @@
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C](./c/NumberOf1Bits/hamming_weight.c) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C](./c/CountPrimes/count_primes.c)  | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](./c/ReverseLinkedList/reverse_linked_list.c), [CPP](./cc/ReverseLinkedList/reverse_linked_list.cc)  | Easy |
+| 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [CPP](./cc/KthLargestElementinanArray/kth_largest_element_in_an_array.cc)  | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./cc/ContainsDuplicate/contains_duplicate.cc)  | Easy |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [CPP](./cc/KthSmallestElementinaBST/kth_smallest_element_in_a_bst.cc)  | Medium |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./cc/PalindromeLinkedList/palindrome_linked_list.cc), [C](./c/PalindromeLinkedList/is_palindrome.c) | Easy |
