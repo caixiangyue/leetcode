@@ -67,6 +67,7 @@
 | 242 | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [CPP](./cc/ValidAnagram/valid_anagram.cc)  | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./cc/AddDigits/add_digits.cc)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./cc/MoveZeroes/move_zeroes.cc)  | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [CPP](./cc/TopKFrequentElements/top_k_frequent_elements.cc)  | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [CPP](./cc/ReverseVowelsofaString/reverse_vowels_of_a_string.cc)  | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./c/IsSubsequence/is_subsequence.c)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [CPP](./cc/FizzBuzz/fizz_buzz.cc)  | Easy |
