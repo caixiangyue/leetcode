@@ -59,6 +59,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](./solutions/0217_contains_duplicate.cc)  | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [CPP](./solutions/0234_palindrome_linked_list.cc), [C](./solutions/0234_is_palindrome.c) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [CPP](./solutions/0258_add_digits.cc)  | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Go](./solutions/0268_missing_number.go)  | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [CPP](./solutions/0283_move_zeroes.cc)  | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [CPP](./solutions/0345_reverse_vowels_of_a_string.cc)  | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./solutions/0392_is_subsequence.c)  | Easy |
