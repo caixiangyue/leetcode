@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty | :memo: |
 | :------ | :------ | :------ | :----- | :----- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [CPP](./solutions/0001_two_sum.cc), [PY](./solutions/0001_two_sum.py)  | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [CPP](./solutions/0001_two_sum.cc), [Python](./solutions/0001_two_sum.py)  | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./solutions/0002_add_two_numbers.c), [CPP](./solutions/0002_add_two_numbers.cc) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [CPP](./solutions/0003_longest_substring_without_repeating_characters.cc)  | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./solutions/0004_find_median_sorted_arrays.c), [CPP](./solutions/0004_find_median_sorted_arrays.cc)  | Hard |
@@ -18,10 +18,11 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](./solutions/0019_remove_nth_from_end.c), [CPP](./solutions/0019_remove_nth_node_from_end_of_list.cc)  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./solutions/0020_valid_parentheses.c)  | Easy |
 | 21 | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./solutions/0021_merge_two_lists.c), [CPP](./solutions/0021_merge_two_sorted_lists.cc)  | Easy |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [PY](./solutions/0022_generate_parenthesis.py)  | Medium |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./solutions/0022_generate_parenthesis.py)  | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./solutions/0026_remove_duplicates.c)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./solutions/0027_remove_element.c)  | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C](./solutions/0028_str_str.c)  | Easy |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./solutions/0032_longest_valid_parentheses.py)  | Hard |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](./solutions/0035_search_insert.c)  | Easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C](./solutions/0038_count_and_say.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./solutions/0053_max_sub_array.c)  | Easy |
