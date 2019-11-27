@@ -22,7 +22,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./solutions/0026_remove_duplicates.c)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](./solutions/0027_remove_element.c)  | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C](./solutions/0028_str_str.c)  | Easy |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./solutions/0032_longest_valid_parentheses.py)  | Hard |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [CPP](./solutions/0032_longest_valid_parentheses.cc), [Python](./solutions/0032_longest_valid_parentheses.py)  | Hard |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](./solutions/0035_search_insert.c)  | Easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C](./solutions/0038_count_and_say.c)  | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](./solutions/0053_max_sub_array.c)  | Easy |
