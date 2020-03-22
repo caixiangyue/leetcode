@@ -73,4 +73,5 @@
 | 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [C](./solutions/0709_to_lower_case.c)  | Easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [CPP](./solutions/0633_sum_of_square_numbers.cc)  | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C](./solutions/0912_sort_array.c)  | Medium |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [GO](./solutions/0945_min_increment_for_unique.go)  | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [CPP](./solutions/0961_n-repeated_element_in_size_2n_array.cc)  | Easy |
